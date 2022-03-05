@@ -1,16 +1,19 @@
-# Support for Ukrainian Researchers | Ресурси для украïньских вченых та студентів | Ресурсы для украинских ученых и студентов
+# Ресурси для украïньских вченых та студентів
+# Support for ukrainian sesearchers and students
+# Ресурсы для украинских ученых и студентов
+
+
 
 A list of resources and initiatives to help people from Ukraine
 
 - [For researchers and students](#for-researchers-and-students)
-- [Demonstrations](#demonstrations)
 - [University info pages](#university-info-pages)
 - [Community support statements](#community-support-statements)
 - [Local support for refugees - Cities](#local-support-for-refugees---cities)
   - [Freiburg](#germany-freiburg) 
   - [Czechia](#czechia)
   - [Basel](#switzerland-basel)
-
+- [Demonstrations](#demonstrations)
 ## Housing
 
 * [Elinor association Website](https://elinor.network/gastfreundschaft-ukraine/) is organising space/housing for refugees 
@@ -26,10 +29,6 @@ A list of resources and initiatives to help people from Ukraine
 * https://bit.ly/ua-table list of scientific labs offering support (collaborations, money, jobs ...) for Ukrainian scientists
 * https://www.embo.org/solidarity-with-ukraine/ list of life-science labs offering support (jobs, help with accomodation, ...) for Ukrainian scientists
 * https://scienceforukraine.eu information for practical help for Ukrainian researchers and students
-
-## Demonstrations
-
-* https://standwithukraine.live you can find out where peace demonstrations are taking place.
 
 ## University info pages
 
@@ -58,4 +57,9 @@ A list of resources and initiatives to help people from Ukraine
 ### Switzerland-Basel
 
 * [TWIST Basel Special support to Ukraine](https://www.twistbasel.com/so/ccNzAMNra?languageTag=en&cid=5642af29-f9cf-4f6d-b9ba-bec9cf293b72#/main)
+
+## Demonstrations
+
+* https://standwithukraine.live you can find out where peace demonstrations are taking place.
+
 
