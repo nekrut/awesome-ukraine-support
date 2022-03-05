@@ -1,4 +1,4 @@
-# Awesome Ukraine Support
+# Support for Ukrainian Researchers | Ресурси для украïньских вченых та студентів | Ресурсы для украинских ученых и студентов
 
 A list of resources and initiatives to help people from Ukraine
 
